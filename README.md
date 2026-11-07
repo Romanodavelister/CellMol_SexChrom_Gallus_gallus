@@ -49,7 +49,7 @@
 
 ## Part C. Chromosome groups
 
-File: [chromosome_groups.csv](YOUR_GITHUB_FILE_LINK)
+File: [chromosomes_groups.csv](chromosome_groups.csv)
 
 | **rname** | **Group** | **Reason** |
 |---|---|---|
