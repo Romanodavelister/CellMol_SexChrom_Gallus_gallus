@@ -177,3 +177,5 @@ A chromosome-level assembly alone is insufficient because it only provides the r
 
 10. R Core Team. (2026). *R: A language and environment for statistical computing.* R Foundation for Statistical Computing, Vienna, Austria.  
     https://www.r-project.org/
+
+**Galaxy Link:** https://usegalaxy.org/u/romano_dave_lister/h/sex-dosage-gallus-gallus
